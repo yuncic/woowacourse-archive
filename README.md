@@ -22,12 +22,8 @@
 | --- | --- | --- | --- |
 | 로또 | 1단계 — 콘솔 기반 로또 게임 | [#419](https://github.com/woowacourse/javascript-lotto/pull/419) | 병합 |
 | 로또 | 2단계 — 웹 기반 로또 게임 | [#449](https://github.com/woowacourse/javascript-lotto/pull/449) | 병합 |
-| Today I Learn | 단계 없음 | [#42](https://github.com/woowacourse/web-today-i-learn/pull/42) | 진행 중 |
-| TypeScript와 학습법 튜닝하기 | 미션 제출 | [#1](https://github.com/woowacourse/ts-and-learning/pull/1) | 병합 |
-| TypeScript와 학습법 튜닝하기 | 후속 수정 | [#10](https://github.com/woowacourse/ts-and-learning/pull/10) | 종료 |
 | 영화 리뷰 | 1단계 — 영화 목록 불러오기 | [#266](https://github.com/woowacourse/javascript-movie-review/pull/266) | 병합 |
 | 영화 리뷰 | 2단계 — 상세 정보와 UI/UX 개선하기 | [#292](https://github.com/woowacourse/javascript-movie-review/pull/292) | 병합 |
-| 글쓰기 | 레벨 1 회고 | [#1104](https://github.com/woowacourse/woowa-writing/pull/1104) | 진행 중 |
 
 ## 레벨 2 — React와 풀스택
 
@@ -43,7 +39,7 @@
 | 장바구니 풀스택 | 3단계 — 시스템 설계 | [#64](https://github.com/woowacourse/shopping-cart-full-stack/pull/64) | 병합 |
 | 장바구니 풀스택 | 4단계 — FE/BE 구현 | [#85](https://github.com/woowacourse/shopping-cart-full-stack/pull/85) | 병합 |
 
-## 레벨 3 — 성능과 렌더링
+## 레벨 4 — 성능과 렌더링
 
 | 미션 | 단계 | PR | 상태 |
 | --- | --- | --- | --- |
