@@ -32,9 +32,7 @@
 | 페이먼츠 | 1단계 | [#510](https://github.com/woowacourse/react-payments/pull/510) | 병합 |
 | 페이먼츠 | 2단계 — hooks와 state | [#527](https://github.com/woowacourse/react-payments/pull/527) | 병합 |
 | 페이먼츠 | 3단계 — MSW, Async, Testing | [#553](https://github.com/woowacourse/react-payments/pull/553) | 병합 |
-| 페이먼츠 | 3단계 준비 PR | [#552](https://github.com/woowacourse/react-payments/pull/552) | 종료 |
 | 장바구니 풀스택 | 1단계 — BE | [#5](https://github.com/woowacourse/shopping-cart-full-stack/pull/5) | 병합 |
-| 장바구니 리팩토링 | Homework — Layered Architecture | [#2](https://github.com/woowacourse/shopping-cart-refactoring/pull/2) | 진행 중 |
 | 장바구니 풀스택 | 2단계 — FE | [#26](https://github.com/woowacourse/shopping-cart-full-stack/pull/26) | 병합 |
 | 장바구니 풀스택 | 3단계 — 시스템 설계 | [#64](https://github.com/woowacourse/shopping-cart-full-stack/pull/64) | 병합 |
 | 장바구니 풀스택 | 4단계 — FE/BE 구현 | [#85](https://github.com/woowacourse/shopping-cart-full-stack/pull/85) | 병합 |
