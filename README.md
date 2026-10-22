@@ -64,19 +64,4 @@
 | 렌더링 베이스캠프 | 2단계 — Node.js로 Classic SSR 구현하기 | [#146](https://github.com/woowacourse/rendering-basecamp/pull/146) | 병합 |
 | 렌더링 베이스캠프 | 3단계 — React와 Node.js로 Hybrid Rendering 구현하기 | [#171](https://github.com/woowacourse/rendering-basecamp/pull/171) | 병합 |
 
-## 기타 미션
 
-| 미션 | 단계 | PR | 상태 |
-| --- | --- | --- | --- |
-| Gemini Canvas | 사용자가 있는 Gemini 웹앱 출시하기 | [#2](https://github.com/woowacourse/gemini-canvas-mission/pull/2) | 병합 |
-
-`woowa-writing #1104`는 PR 제목에 레벨 3이라고 적혀 있지만, 본문은 레벨 1 회고를 다룬다. 이 문서에서는 본문 내용을 기준으로 레벨 1에 배치했다.
-
-`react-payments #552`는 미션 제출 PR이 아니라 3단계 준비 과정에서 생성된 PR이다. 제출 PR인 `#553`과 함께 기록했다.
-
-팀 프로젝트와 스터디 PR은 단계형 미션과 성격이 달라 별도 문서로 분리했다.
-
-## 원본 저장소
-
-- [yuncic/woowacourse-archive](https://github.com/yuncic/woowacourse-archive)
-- [GitHub PR 검색 결과](https://github.com/search?q=author%3Ayuncic&type=pullrequests)
