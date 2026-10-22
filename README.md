@@ -18,8 +18,6 @@
 - [레벨 2 — React와 풀스택](#레벨-2--react와-풀스택)
 - [레벨 3 — 성능과 렌더링](#레벨-3--성능과-렌더링)
 - [기타 미션](#기타-미션)
-- [레벨 4 — 팀 프로젝트](team-project.md)
-- [연관 스터디](algorithm-study.md)
 
 ## 레벨 0 — 프리코스
 
@@ -28,7 +26,6 @@
 | 문자열 덧셈 계산기 | 기본 미션 | [#3](https://github.com/woowacourse-precourse/javascript-calculator-8/pull/3) | 진행 중 |
 | 자동차 경주 | 기본 미션 | [#2](https://github.com/woowacourse-precourse/javascript-racingcar-8/pull/2) | 진행 중 |
 | 로또 | 기본 미션 | [#5](https://github.com/woowacourse-precourse/javascript-lotto-8/pull/5) | 진행 중 |
-| 온콜 | 기본 미션 | [#5](https://github.com/woowacourse-precourse/javascript-oncall-6/pull/5) | 종료 |
 | 행성 로또 | 기본 미션 | [#1](https://github.com/woowacourse-precourse/javascript-planetlotto-8/pull/1) | 진행 중 |
 
 ## 레벨 1 — JavaScript
