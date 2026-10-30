@@ -3,6 +3,9 @@
 우아한테크코스 8기 프론트엔드 과정에서 진행한 미션과 학습 기록입니다.  
 미션 PR, 코드 리뷰에서 이어진 추가 학습, 팀 프로젝트의 구현과 검증 과정을 정리했습니다.
 
+<img width="594" height="841" alt="image" src="https://github.com/user-attachments/assets/59fa6044-4574-4ba9-a2ab-f412f0ffcc73" />
+
+
 ## 목차
 
 - [레벨 0 - 프리코스](#레벨-0---프리코스)
